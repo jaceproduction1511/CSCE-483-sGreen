@@ -1,0 +1,35 @@
+/* ------------------------------------------------------------------------------------*/
+/* Developer: Andrew Kirfman, Cuong Do, Aaron Ayrault, Sean McKenzey, Margaret Baxter  */
+/* Project: Smart Greenhouse                                                 		   */
+/*                                                                                     */
+/* File:                          */
+/* ----------------------------------------------------------------------------------- */
+
+
+.text-muted 
+{
+	color: #777;
+}
+
+html 
+{
+	position: relative;
+	min-height: 100%;
+}
+
+body 
+{
+	margin-bottom: 60px;
+}
+
+.footer 
+{
+	position: absolute;
+    bottom: 0;
+	height: 60px;
+}
+.row
+{
+	margin-right: 0px;
+	margin-left: 0px;
+}
